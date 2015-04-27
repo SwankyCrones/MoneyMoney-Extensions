@@ -9,3 +9,5 @@ BarCharts - Exports a HTML page showing interactive bar charts for each category
 
             Usage: Export the html page. Check if d3.min.js and c3.min.js are next to your exported html page. Open
             the html page in your favorite browser.
+
+Everything released under The MIT License (MIT)
